@@ -1,4 +1,4 @@
-# DVWA Deployment on EC2
+# DVWA Deployment on EC2.
 
 ## 🏗️ Architecture
 
