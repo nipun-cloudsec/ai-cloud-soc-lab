@@ -79,6 +79,31 @@ $_DVWA[ 'db_password' ] = 'password';
 
 ---
 
+## 🚨 Attack Simulation Results
+
+### 🔍 Recon
+
+* Nmap scan identified open ports: 22 (SSH), 80 (HTTP)
+
+### 🧪 Scans
+
+* Nikto web vulnerability scan executed
+
+### 💣 Attacks Performed
+
+* SQL Injection
+* Cross-Site Scripting (XSS)
+* Brute Force login attempts
+
+### 🧠 Observation
+
+Application responds to malicious inputs, confirming vulnerable behavior
+
+### 🎯 Outcome
+
+Successfully generated attack traffic for SOC monitoring
+
+
 ## ✅ Result
 
 DVWA successfully deployed and accessible via:
